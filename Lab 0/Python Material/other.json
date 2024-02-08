@@ -1,0 +1,16 @@
+{
+ "item 1": {
+  "colors": [
+   "white",
+   "red",
+   "black"
+  ],
+  "price": 10
+ },
+ "item 2": {
+  "colors": [
+   "magenta"
+  ],
+  "price": 5
+ }
+}
